@@ -8,14 +8,21 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, We are <span className="purple">Aesthetic Technologies </span>
+            At <span className="purple">Aesthetic Technologies </span>
             {/* from <span className="purple"> Bhubaneswar, India.</span> */}
             <br />
-            We are working on enterprise projects from mid to high level.
+            We specialize in developing custom technology strategies
             <br />
-            We have completed projects related to Maps & GIS as well.
+            that drive growth and innovation for business of all sizes.
             <br />
             <br />
+            Are you interested?
+            <br />
+            <span className="purple">
+              Schedule a free project scope with us
+            </span>
+            <br/>
+            <br/>
             {/* Apart from coding, some other activities that I love to do! */}
           </p>
           {/* <ul>
